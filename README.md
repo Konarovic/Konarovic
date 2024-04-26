@@ -1,5 +1,13 @@
-### Hi there 👋
+### Salut 👋
 
+:beginner:As a product owner and former lead 3D, I'm currently delving into machine learning and deep learning independently. 
+Alongside, I'm conducting API tests to gather football data. 
+
+:soccer: My interests span football, AI, data, cybersecurity, food, sports, games, and I'm particularly intrigued by the arts. 
+
+:beer: Feel free to reach out
+
+KONAROVIC
 <!--
 **Konarovic/Konarovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
