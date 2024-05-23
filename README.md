@@ -1,7 +1,7 @@
 ### Salut 👋
 
 :beginner:As a product owner and former lead 3D, I'm currently delving into machine learning and deep learning independently. 
-Alongside, I'm conducting API tests to gather football data. 
+Alongside, I'm conducting API tests to gather football data and about other subjects. 
 
 :soccer: My interests span football, AI, data, cybersecurity, food, sports, games, and I'm particularly intrigued by the arts. 
 
